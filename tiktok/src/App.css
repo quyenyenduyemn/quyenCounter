@@ -1,0 +1,35 @@
+button.btn.btn-primary {
+  display: flex;
+  margin: auto;
+}
+.block {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-size: 50px;
+  margin-bottom: 8%;
+  font-weight: bold;
+  color: red;
+}
+.button1 {
+  padding: 3% !important;
+}
+
+/* CSS for Couter */
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.circle {
+  height: 7vh;
+  width: 7vh;
+  border-radius: 50% !important;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border: 2px solid black;
+  margin: 0 10%;
+}
